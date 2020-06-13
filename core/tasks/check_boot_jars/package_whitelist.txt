@@ -255,5 +255,6 @@ org\.codeaurora\.internal.*
 org\.ifaa\.android\.manager.*
 
 ###################################################
-# Touch HAL
+# LineageOS
 vendor.lineage.touch.*
+vendor.lineage.livedisplay.*
